@@ -17,8 +17,14 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-64x64_2x.png" title="SwiftUI" alt="SwiftUI" width="42" height="42"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.iconscout.com/icon/free/png-512/uikit-3629126-3030266.png?f=avif&w=512" title="UIKit" alt="UIKit" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://developer.apple.com/assets/elements/icons/sdk-16/sdk-16-128x128_2x.png" title="SDK" alt="SDK" width="40" height="40"/>&nbsp;
+  <img src="https://developer.apple.com/assets/elements/icons/arkit/arkit-96x96_2x.png" title="ARKit" alt="ARKit" width="40" height="40"/>&nbsp;
+  <img src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-96x96_2x.png" title="MLCore" alt="MLCore" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.iconscout.com/icon/free/png-512/cocoapods-283067.png?f=avif&w=512" title="CocoaPods" alt="CocoaPods" width="40" height="40"/>&nbsp;
  
   
 </div>
