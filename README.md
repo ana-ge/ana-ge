@@ -6,9 +6,9 @@
 
 ### :technologist: About Me :
 
-- I am an iOS Developer from Kazakhstan 🇰🇿
-- ⚛️ Techno Geek
-- ⚡️ I solve problems on LeetCode and read tech articles in my free time
+- 🇰🇿 I am an iOS Developer from Kazakhstan 
+- ⚛️  Techno Geek
+- ⚡️  I solve problems on LeetCode and read tech articles in my free time
 
 ---
 
