@@ -7,8 +7,11 @@
 ### :technologist: About Me :
 
 - 🇰🇿 I am an iOS Developer from Kazakhstan 
+- 🎨 I am using UI/UX knowledges to create my project and always browsing for a good design patterns
+- ⚡️  I like to read tech articles and listen to Software Development podcasts in my free time
 - ⚛️  Techno Geek
-- ⚡️  I solve problems on LeetCode and read tech articles in my free time
+
+
 
 ---
 
